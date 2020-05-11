@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="custom.css">
+</head>
+<body>
+<h1>Joseph Lutilo</h1>
+<img src="joseph-lutilo.jpg" alt=""/>
+<h2>Achievement</h2>
+  <ul>
+    <li>Education</li>
+    <p>Egerton universty</p>
+    <li>Proffesion</li>
+    <li>Family</li>
+    
+  </ul>
+</<body>
+<html>
