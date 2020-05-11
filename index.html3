@@ -6,7 +6,7 @@
   <style> 
   h1{color:blue;}
   h2{color:blue;}
-  
+  p{background-color:purple;}
 
 </style>
   
