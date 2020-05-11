@@ -1,12 +1,19 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
+
 <body>
+
 <h1>Joseph Lutilo</h1>
 <img src="joseph-lutilo.jpg" alt=""/>
+</h1>
+
 <h2>Achievements</h2>
+  
   <p>I build value by design.
 
 I’m Joseph, but you can just call me Joe.
@@ -22,7 +29,7 @@ Depending on the team, resources and deliverables I’ve worn many hats over the
 I also occasionally give talks on design and product development.
 
 Have an interesting project? Let's talk.</p>
-</h2>
+
 
     
      
