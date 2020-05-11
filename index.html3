@@ -4,8 +4,9 @@
 
 <head>
   <style> 
-  h1{color:blue;}
-  h2{color:blue;}
+  h2,h1{color:blue;
+  border-bottom:1px solid black;}
+  
   p{background-color:purple;
   font-size:25px}
 
