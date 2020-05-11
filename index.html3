@@ -6,7 +6,8 @@
   <style> 
   h1{color:blue;}
   h2{color:blue;}
-  p{background-color:purple;}
+  p{background-color:purple;
+  font-size:25px}
 
 </style>
   
