@@ -1,8 +1,8 @@
 body {
   background-color: lightblue;
 }
-
-h1 {
+h1{block-size: auto;}
+h2 {
   color: navy;
   margin-left: 20px;
   text-align: center;
