@@ -3,7 +3,11 @@
 <html>
 
 <head>
-  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <style> 
+  color:blue;
+
+</style>
+  
 </head>
 
 <body>
