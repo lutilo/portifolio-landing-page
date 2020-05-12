@@ -14,7 +14,7 @@
   
   
   border-color:black;
-  border-width:2px;
+  border-width:3px;
   border-style:solid;
   margin:20px;
  padding: 22px; 
