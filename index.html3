@@ -7,7 +7,7 @@
   body{background-color:#ffcf79;
   border-color:aqaumarine}
   h2,h1{color:blue;
-  text-decoration:underline;}
+  text-decoration:underlineclearc;}
   
   p{background-color:purple;
   font-size:25px
