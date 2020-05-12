@@ -4,11 +4,21 @@
 
 <head>
   <style> 
+  body{background-color:#ffcf79;
+  border-color:aqaumarine}
   h2,h1{color:blue;
-  border-bottom:1px solid black;}
+  text-decoration:underline;}
   
   p{background-color:purple;
-  font-size:25px}
+  font-size:25px
+  
+  
+  border-color:black;
+  border-width:2px;
+  border-style:solid;
+  margin:20px;
+ padding: 20px; 
+ background-color:#e5e4d7;}
 
 </style>
   
